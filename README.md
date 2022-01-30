@@ -8,26 +8,27 @@ The model is designed in such a way like: At a particular point of prediction ti
 User: hello anyone there <br />
 Bot: hello there. how are you? <br />
 User: i am doing good, thank you <br />
-Bot: I'm doing great, thanks. What are you doing?
-User: i am presently chatting with you
-Bot: That's great. I've been working everywhere since i was.
-User: nice. what is your profession right now
-Bot: My parents are professors, but i don't have a job
-User: that's so sad but i hope you will find a job sooner
-Bot: I'm sorry to hear that. What kind of work are you looking for?
-User: i am looking for a ml engineer role
-Bot: That's cool.
-
-User: Hey
-Bot: Hi
-User: i like cricket. what about you
-Bot: i am not sure what that is
-User: cricket is a sport
-Bot: i like to watch football.
-User: ohh nice. what is your favourite football team
-Bot: i like the packers.
-User: i dont know about them. can you tell me about packers
-Bot: i like to watch them
-User: do you know about india?
-Bot: i don't know about it
-User: india is a huge country
+Bot: I'm doing great, thanks. What are you doing? <br />
+User: i am presently chatting with you <br />
+Bot: That's great. I've been working everywhere since i was. <br />
+User: nice. what is your profession right now <br />
+Bot: My parents are professors, but i don't have a job <br />
+User: that's so sad but i hope you will find a job sooner <br />
+Bot: I'm sorry to hear that. What kind of work are you looking for? <br />
+User: i am looking for a ml engineer role <br />
+Bot: That's cool. <br />
+<br />
+<br />
+User: Hey <br />
+Bot: Hi <br />
+User: i like cricket. what about you <br />
+Bot: i am not sure what that is <br />
+User: cricket is a sport <br />
+Bot: i like to watch football. <br />
+User: ohh nice. what is your favourite football team <br />
+Bot: i like the packers. <br />
+User: i dont know about them. can you tell me about packers <br />
+Bot: i like to watch them <br />
+User: do you know about india? <br />
+Bot: i don't know about it <br />
+User: india is a huge country <br />
