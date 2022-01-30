@@ -5,7 +5,7 @@ The model is designed in such a way like: At a particular point of prediction ti
 
 # Output
 
-User: hello anyone there
+User: hello anyone there \n
 Bot: hello there. how are you?
 User: i am doing good, thank you
 Bot: I'm doing great, thanks. What are you doing?
